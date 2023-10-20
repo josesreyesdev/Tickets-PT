@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="435839d5-d8e9-4a5d-b86d-b4c4b14c54aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tickets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Cliente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ticket.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/.idea/kotlinScripting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/META-INF/NotesAndConfig.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/META-INF/NotesAndConfig.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit1KotlinBasics/classDice/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit1KotlinBasics/classDice/Coin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit1KotlinBasics/classDice/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit1KotlinBasics/classDice/Dice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit1KotlinBasics/classDice/MainDiceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit1KotlinBasics/classDice/MainDiceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit1KotlinBasics/randomNumber.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit1KotlinBasics/randomNumber.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/clasesYHerencia/Dwelling.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/clasesYHerencia/Dwelling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/listas/ListMainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/listas/ListMainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/listas/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/listas/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/listas/OrderMainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/listas/OrderMainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/listas/Vegetables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit2Layouts/listas/Vegetables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/ConjuntoMainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/ConjuntoMainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/Lamdas_FunOrdenSuperiorKt$superiorFunctions$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/Lamdas_FunOrdenSuperiorKt$superiorFunctions$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/Lamdas_FunOrdenSuperiorKt$superiorFunctions$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/Lamdas_FunOrdenSuperiorKt$superiorFunctions$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/Lamdas_FunOrdenSuperiorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/Lamdas_FunOrdenSuperiorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/ListaPalabrasKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/codelabsGoogle/unit3Navigation/conjuntos/ListaPalabrasKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/PalindromeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/PalindromeKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/retos2023/_02_JuegoTennisKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/retos2023/_02_JuegoTennisKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/retos2023/_06_PiedraPapelTijeraKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/retos2023/_06_PiedraPapelTijeraKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/retos2023/_07_SombrebroSeleccionadorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/retos2023/_07_SombrebroSeleccionadorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/retos2023/_08_NumeroPseudoaleatorioKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/examples/retos2023/_08_NumeroPseudoaleatorioKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/newsCodelabsGoogle/extensiones/ExtensionFunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/newsCodelabsGoogle/extensiones/ExtensionFunctionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/newsCodelabsGoogle/functions/HelloKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/production/NotesAndConfig/newsCodelabsGoogle/functions/HelloKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/test/NotesAndConfig/META-INF/NotesAndConfig.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/test/NotesAndConfig/META-INF/NotesAndConfig.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/test/NotesAndConfig/instrumentedTest/ExampleInstrumentedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/test/NotesAndConfig/instrumentedTest/notesInstrumentedTest" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/test/NotesAndConfig/instrumentedTest/notesInstrumentedTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/test/NotesAndConfig/unitTest/ExampleUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/out/test/NotesAndConfig/unitTest/notesUnitTest" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/out/test/NotesAndConfig/unitTest/notesUnitTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/configProjectsKotlin/Config-Projects-kotlin" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/configProjectsKotlin/Config-Projects-kotlin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/configProjectsKotlin/NotesKeyWords" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/configProjectsKotlin/NotesKeyWords" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit1KotlinBasics/classDice/MainDice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit1KotlinBasics/classDice/MainDice.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit2Layouts/clasesYHerencia/MainDwelling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit2Layouts/clasesYHerencia/MainDwelling.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit2Layouts/listas/ListMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit2Layouts/listas/ListMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit2Layouts/listas/OrderMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit2Layouts/listas/OrderMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit3Navigation/conjuntos/ConjuntoMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit3Navigation/conjuntos/ConjuntoMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit3Navigation/conjuntos/ListaPalabras.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit3Navigation/conjuntos/ListaPalabras.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit3Navigation/conjuntos/lamdas&amp;FunOrdenSuperior.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/codelabsGoogle/unit3Navigation/conjuntos/lamdas&amp;FunOrdenSuperior.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/examples/palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/examples/palindrome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/examples/retos2023/06-PiedraPapelTijera.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/examples/retos2023/06-PiedraPapelTijera.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/examples/retos2023/07-SombrebroSeleccionador.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/examples/retos2023/07-SombrebroSeleccionador.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/examples/retos2023/08-NumeroPseudoaleatorio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/examples/retos2023/08-NumeroPseudoaleatorio.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/newsCodelabsGoogle/clasesyobjetos/example/myapp/decor/Decoration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/newsCodelabsGoogle/clasesyobjetos/example/myapp/decor/Decoration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/newsCodelabsGoogle/functions/Hello.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../NotesAndConfig/src/main/kotlin/newsCodelabsGoogle/functions/Hello.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WzqG9aaIHc811RRESg8MPrrjDj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Tickets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="435839d5-d8e9-4a5d-b86d-b4c4b14c54aa" name="Changes" comment="" />
+      <created>1697745664451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697745664451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+</project>
